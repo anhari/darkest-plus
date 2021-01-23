@@ -4,11 +4,11 @@ The default Dark+ theme with much darker backgrounds, and some personal preferen
 
 ## _Darkest+ theme_
 
-![Darkest+](https://github.com/anhari/darkest-plus/blob/main/darkest-plus.png?raw=true)
+![Darkest+](https://raw.githubusercontent.com/anhari/darkest-plus/main/darkest-plus.png)
 
 ## _Default Dark+ theme_
 
-![Default Dark theme](https://github.com/anhari/darkest-plus/blob/main/default-dark-plus.png?raw=true)
+![Default Dark theme](https://raw.githubusercontent.com/anhari/darkest-plus/main/default-dark-plus.png)
 
 ## Customize it to your liking
 
