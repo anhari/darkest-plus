@@ -3,6 +3,7 @@
   "publisher": "anhari",
   "displayName": "Darkest+ theme",
   "description": "A much darker version of the default Dark+ theme with some personal changes",
+  "icon": "icons/darkest_plus.png",
   "version": "0.0.5",
   "license": "MIT",
   "repository": {
