@@ -1103,10 +1103,7 @@
       }
     },
     {
-      "scope": [
-        "variable.other.constant.elixir",
-        "entity.other.attribute-name"
-      ],
+      "scope": ["variable.other.constant.elixir"],
       "settings": {
         "foreground": "#4EC9B0"
       }
