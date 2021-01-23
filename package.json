@@ -21,6 +21,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Darkest+ Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkest-plus-italic-color-theme.json"
+      },
+      {
         "label": "Darkest+",
         "uiTheme": "vs-dark",
         "path": "./themes/darkest-plus-color-theme.json"
