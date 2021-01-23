@@ -4,7 +4,7 @@
   "displayName": "Darkest+ theme",
   "description": "A much darker version of the default Dark+ theme with some personal changes",
   "icon": "icons/darkest_plus.png",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/anhari/darkest-plus"
