@@ -1,11 +1,15 @@
 {
   "name": "darkest-plus",
+  "publisher": "anhari",
   "displayName": "Darkest+ theme",
   "description": "A much darker version of the default Dark+ theme with some personal changes",
   "version": "0.0.3",
-  "publisher": "anhari",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/anhari/darkest-plus"
+  },
+  "bugs": {
+    "url": "https://github.com/anhari/darkest-plus/issues"
   },
   "engines": {
     "vscode": "^1.52.0"
@@ -18,7 +22,7 @@
       {
         "label": "Darkest+",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkest+-color-theme.json"
+        "path": "./themes/darkest-plus-color-theme.json"
       }
     ]
   }

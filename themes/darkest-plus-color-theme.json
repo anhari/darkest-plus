@@ -1,4 +1,5 @@
 {
+  "name": "Darkest+",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
