@@ -3,6 +3,10 @@
   "displayName": "Darkest+ theme",
   "description": "A much darker version of the default Dark+ theme with some personal changes",
   "version": "0.0.1",
+  "publisher": "anhari",
+  "repository": {
+    "url": "https://github.com/anhari/darkest-plus"
+  },
   "engines": {
     "vscode": "^1.52.0"
   },
