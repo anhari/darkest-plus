@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "darkest-plus"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Darkest+ theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+The default Dark+ theme with much darker backgrounds, and some personal preferences thrown in. It's like the High Contrast version of Dark+, without all of the noise.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## _Darkest+ theme_
 
-**Enjoy!**
+![Darkest+](darkest-plus.png)
+
+## _Default Dark+ theme_
+
+![Default Dark theme](default-dark-plus.png)
+
+## Customize it to your liking
+
+```json
+{
+  "workbench.colorCustomizations": {
+    "[Darkest+]": {
+      "panel.background": "#000"
+    }
+  }
+}
+```
