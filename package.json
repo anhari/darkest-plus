@@ -1,0 +1,21 @@
+{
+  "name": "darkest-plus",
+  "displayName": "Darkest+ theme",
+  "description": "A much darker version of the default Dark+ theme with some personal changes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkest+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkest+-color-theme.json"
+      }
+    ]
+  }
+}
